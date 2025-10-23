@@ -50,7 +50,7 @@ These boards are connected via a **Flexible Printed Circuit (FPC)**.
   - Built-in MEMS microphone  
   - 35–120 dB SPL range, 30 Hz–8 kHz frequency response  
   - ±2 dB accuracy  
-  - 3.4 mA @ 3.3V (active), 90 µA (sleep)  
+  - 1.4 mA @ 3.3V (active), 90 µA (sleep)  
   - Supports A/C/Z weighting, adjustable averaging (fast: 125 ms, slow: 1 s)  
   - Bottom inlet port microphone  
 
