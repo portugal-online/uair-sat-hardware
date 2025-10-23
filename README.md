@@ -173,3 +173,10 @@ The **uAir-Sat** combines **dual-core processing**, **dual-band LoRaWAN**, and *
 Its hybrid terrestrial and satellite communication capability enables reliable data transmission even in **remote, off-grid** environments.  
 
 It stands as a versatile foundation for long-life IoT nodes requiring **resilience**, **low power**, and **connectivity beyond terrestrial networks**.
+
+---
+
+## Copyright & Licence
+© 2025 Portugal Online & Antonio Alves – all rights reserved. Unless otherwise stated, you are hereby granted permission to use, study, modify and distribute the source files, design files and documentation for the uAir-Sat hardware under the terms of the CERN-OHL-P-2.0 licence. You must retain all copyright notices, acknowledgement of the original author, and a reference to this licence in any copy or derivative that you convey. The design is provided “as-is”, without warranty of any kind, and the original author disclaims any liability for how the design may be used or for any resulting product.
+
+If you choose to manufacture, assemble or convey a product based on this design (or a derivative thereof), you remain responsible for ensuring compliance with applicable laws (including export control, radio-frequency, safety certification) and you must not imply endorsement by the original author or use the original author’s name or trademarks without explicit permission. Any modifications you make must be documented and attributed, and the licence text must remain included. By doing so you accept the terms of the CERN-OHL-P-2.0 licence worldwide and in perpetuity.
