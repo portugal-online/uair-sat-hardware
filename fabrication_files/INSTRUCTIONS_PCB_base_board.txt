@@ -1,0 +1,22 @@
+PCB STACKUP
+Any 1.6mm thick, 4-layer FR4 stackup is acceptable.
+
+PCB SPECIFICATIONS
+Material:
+Any standard FR4, regular temperature grade
+
+Surface finish:
+Any RoHS compliant surface finish, ENIG preferable
+
+Solder mask:
+Black/Blue/Green
+
+Silk screen:
+White
+
+Solder paste/profile:
+Any RoHS compliant
+
+
+ASSEMBLY NOTES
+Assembled PCBs must not be cleaned with a solvent or washed. PCBs contain MEMS sensor(s).
