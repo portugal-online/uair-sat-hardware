@@ -45,21 +45,21 @@ These boards are connected via a **Flexible Printed Circuit (FPC)**.
   - ±50 gauss dynamic range  
   - 16-bit output, I²C/SPI interface  
 
-- **DBM-r3** – audio-level sound sensor  
+- **PCBA-DBM-PRO** – audio-level sound sensor  
   - I²C interface  
   - Built-in MEMS microphone  
   - 35–120 dB SPL range, 30 Hz–8 kHz frequency response  
   - ±2 dB accuracy  
-  - 5 mA @ 3.3V (active), 100 µA (sleep)  
+  - 3.4 mA @ 3.3V (active), 90 µA (sleep)  
   - Supports A/C/Z weighting, adjustable averaging (fast: 125 ms, slow: 1 s)  
   - Bottom inlet port microphone  
 
 #### Interfaces
 - **USB-C** connector for power and DFU (Device Firmware Upgrade)  
 - **CP2102** USB-to-UART converter  
-- **U.FL** connectors for antennas (S-band, GNSS)  
+- **U.FL** connectors for antennas (Terrestrial LoRa, GNSS)  
 - **Grove-type** connectors for I²C and UART  
-- **JST** connector for LiPo battery  
+- **JST** connectors for LiPo battery and Solar Panel  
 - **Header** for programming/debug  
 
 #### Power Management
@@ -130,7 +130,7 @@ The **external sensor board** extends environmental monitoring through high-prec
 ### Dual LoRaWAN Support
 - Operates on **terrestrial** and **satellite** LoRaWAN networks  
 - Dual transceivers: SX1262 (terrestrial) and LR1120 (satellite)  
-- Supports **S-band** for satellite and **868/915 MHz** for terrestrial bands  
+- Supports **S-band** for satellite and **868** for terrestrial bands  
 
 ### Flexible Architecture
 - Modular main and sensor boards connected via FPC  
