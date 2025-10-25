@@ -180,3 +180,18 @@ It stands as a versatile foundation for long-life IoT nodes requiring **resilien
 © 2025 Portugal Online & Antonio Alves – all rights reserved. Unless otherwise stated, you are hereby granted permission to use, study, modify and distribute the source files, design files and documentation for the uAir-Sat hardware under the terms of the CERN-OHL-P-2.0 licence. You must retain all copyright notices, acknowledgement of the original author, and a reference to this licence in any copy or derivative that you convey. The design is provided “as-is”, without warranty of any kind, and the original author disclaims any liability for how the design may be used or for any resulting product.
 
 If you choose to manufacture, assemble or convey a product based on this design (or a derivative thereof), you remain responsible for ensuring compliance with applicable laws (including export control, radio-frequency, safety certification) and you must not imply endorsement by the original author or use the original author’s name or trademarks without explicit permission. Any modifications you make must be documented and attributed, and the licence text must remain included. By doing so you accept the terms of the CERN-OHL-P-2.0 licence worldwide and in perpetuity.
+
+---
+
+## Third-Party Intellectual Property and Component Licensing
+
+While the uAir-Sat hardware design is released under the **CERN-OHL-P-2.0** licence, this licence governs only the original materials authored within this repository — namely the schematics, PCB layouts, mechanical drawings, and accompanying documentation.
+
+It does **not** grant any rights or permissions to use, reproduce, or distribute third-party intellectual property that may be incorporated into, or referenced by, this design.  
+Such third-party IP includes but is not limited to:
+- Proprietary modules (e.g., **EchoStar Mobile EM2050**, **PCBA-DBM** sound module)  
+- Integrated circuits or components that are covered by patents or closed-source firmware  
+- Any vendor-supplied software, documentation, or trademarks
+
+Users, integrators, and manufacturers remain responsible for ensuring that their use of these components complies with the applicable licences, regulatory requirements, and intellectual-property laws.  
+No endorsement or authorisation from the original rights-holders is implied by the inclusion of their components in the uAir-Sat Bill-of-Materials.
