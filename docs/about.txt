@@ -1,0 +1,43 @@
+uAir-Sat Hardware Design
+----------------------------------------
+Folder: docs
+Version: Rev2 (October 2025)
+Author: Portugal Online & Antonio Alves
+
+Description:
+This folder contains part of the open-source uAir-Sat hardware design.
+Files in this directory may include Diptrace or other EDA project files, Gerbers,
+assembly drawings, 3D models, or other documentation needed for
+manufacturing, testing, or integration.
+
+License:
+This work is licensed under the CERN Open Hardware Licence Version 2.0 – Permissive (CERN-OHL-P-2.0).
+
+You are free to:
+ • Use, copy, and manufacture the design.
+ • Study and modify it for your own purposes.
+ • Distribute or sell hardware based on this design,
+   with or without releasing your modifications.
+
+Conditions:
+ • Retain this notice, the author attribution, and the licence reference
+   in all copies and derivatives.
+ • Clearly document and mark any modifications you make.
+ • Do not use the author’s name, logos, or trademarks for endorsement
+   without written permission.
+
+Third-Party Components:
+This licence does not cover third-party intellectual-property rights,
+including trademarks, copyrights, or patents that may apply to
+components or modules listed in the project Bill-of-Materials
+or accompanying software.
+
+Disclaimer:
+The design is provided “AS IS”, without warranty of any kind.
+The author assumes no responsibility for how this design or its
+derivatives are used, nor for any resulting damages or compliance issues.
+
+Full licence text:
+https://ohwr.org/cern_ohl_p_v2.txt
+----------------------------------------
+© 2025 Portugal Online & Antonio Alves
