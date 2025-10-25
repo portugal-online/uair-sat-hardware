@@ -114,7 +114,7 @@ The **external sensor board** extends environmental monitoring through high-prec
 |  | BME688 | Environmental (gas, pressure, humidity, temperature) |
 |  | IIS2MDC | 3-axis magnetometer |
 |  | LC76G | GNSS (GPS, Beidou) |
-|  | DBM-r3 | Audio level sensor |
+|  | PCBA-DBM-PRO | Audio level sensor |
 | **Memory** | W25Q16JV | 16 Mbit SPI NOR flash (FUOTA, logs) |
 |  | MB85RC64TA | FRAM (64 kbit) non-volatile memory |
 | **Power** | AEM10300 | Energy harvesting IC with MPPT |
